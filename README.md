@@ -1,6 +1,6 @@
 # Hi 👋, I'm Irfan Uddin (Si4m)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Irfan+Uddin+(Si4m);Aspiring+Full+Stack+Developer;Love+to+Build+%26+Explore+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Irfan+Uddin+(Si4m);Aspiring+Full+Stack+Developer;Cybersecurity+Explorer+%F0%9F%94%90;Open+Source+Enthusiast+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 💻 I’m a student and aspiring **Full Stack Developer**  
 🎯 Currently learning **PHP, Java, JavaScript, React & Tailwind CSS**  
@@ -35,16 +35,21 @@
 ---
 
 ## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,C++,python,java,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,python,java,react,tailwind,git,github,vscode,linux" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![Si4m's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Si4m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=79c0ff)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Si4m&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Si4m&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Si4m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=79c0ff" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si4m&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Si4m&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -54,12 +59,26 @@
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Si4m&theme=algolia&no-frame=true&margin-w=10&margin-h=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Si4m&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🚀 Fun Stats
+- ⏰ **Coding Time Tracker:** [WakaTime](https://wakatime.com/) integration can be added here  
+- 🎮 Loves building **games & fun web tools**  
+- 🌍 Always curious about **new technologies**  
 
 ---
 
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Si4m&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## ✨ Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
