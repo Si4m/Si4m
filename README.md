@@ -66,9 +66,16 @@
 ---
 
 ## 🚀 Fun Stats
-- ⏰ **Coding Time Tracker:** [WakaTime](https://wakatime.com/) integration can be added here  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaTimeUsername&theme=tokyonight&layout=compact&hide_border=true" alt="WakaTime Stats" />
+</p>
+
+- ⏰ **Coding Time Tracker** → powered by [WakaTime](https://wakatime.com/)  
 - 🎮 Loves building **games & fun web tools**  
 - 🌍 Always curious about **new technologies**  
+- 🎵 Enjoys music while coding → productivity booster 🎧  
+- ✨ Believes in **“Code. Debug. Improve. Repeat.”**  
 
 ---
 
