@@ -1,6 +1,4 @@
-# Hi 👋, I'm Irfan Uddin
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Irfan+Uddin+(Si4m);Aspiring+Full+Stack+Developer;Cybersecurity+Explorer+%F0%9F%94%90;Open+Source+Enthusiast+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Irfan+Uddin+(Si4m);Full+Stack+Developer;)](https://git.io/typing-svg)
 
 💻 I’m a student and aspiring **Full Stack Developer**  
 🎯 Currently learning **PHP, Java, JavaScript & Tailwind CSS**  
