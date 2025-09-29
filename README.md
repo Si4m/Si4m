@@ -65,17 +65,14 @@
 
 ---
 
+
 ## 🚀 Fun Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaTimeUsername&theme=tokyonight&layout=compact&hide_border=true" alt="WakaTime Stats" />
-</p>
-
-- ⏰ **Coding Time Tracker** → powered by [WakaTime](https://wakatime.com/)  
-- 🎮 Loves building **games & fun web tools**  
-- 🌍 Always curious about **new technologies**  
-- 🎵 Enjoys music while coding → productivity booster 🎧  
-- ✨ Believes in **“Code. Debug. Improve. Repeat.”**  
+- ![Coding](https://img.shields.io/badge/Coding%20Time-WakaTime-58a6ff?style=for-the-badge&logo=wakatime&logoColor=white)  
+- ![Games](https://img.shields.io/badge/Loves-Games%20%26%20Fun%20Web%20Tools-purple?style=for-the-badge&logo=gamepad&logoColor=white)  
+- ![Tech](https://img.shields.io/badge/Curious-New%20Technologies-00C853?style=for-the-badge&logo=googleearth&logoColor=white)  
+- ![Music](https://img.shields.io/badge/Codes%20With-Music-ff4081?style=for-the-badge&logo=spotify&logoColor=white)  
+- ![Motto](https://img.shields.io/badge/Motto-Code.%20Debug.%20Improve.%20Repeat.-orange?style=for-the-badge)  
 
 ---
 
