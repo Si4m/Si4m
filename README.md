@@ -60,7 +60,7 @@
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,python,java,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,python,java,tailwind,git,github,vscode,xampp" />
 </p>
 
 ---
