@@ -1,4 +1,4 @@
-# Hi 👋, I'm Irfan Uddin (Si4m)
+# Hi 👋, I'm Irfan Uddin
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Irfan+Uddin+(Si4m);Aspiring+Full+Stack+Developer;Cybersecurity+Explorer+%F0%9F%94%90;Open+Source+Enthusiast+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
@@ -9,9 +9,9 @@
 ---
 
 ## 🔭 Current Focus
-- Building my portfolio website with React + Tailwind CSS  
-- Practicing DSA & problem-solving in C / Java / Python  
-- Exploring an e-commerce project using PHP  
+- Building my portfolio website with React + Tailwind CSS  .
+- Practicing DSA & problem-solving in C  .
+- Exploring an e-commerce project using PHP  .
 
 ---
 
