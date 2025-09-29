@@ -56,7 +56,7 @@
 ---
 
 ## 🌆 GitHub Skyline
-[![GitHub Skyline](https://github.com/Si4m/Si4m/raw/main/assets/skyline.png)](https://skyline.github.com/Si4m)
+[![GitHub Skyline](https://skyline.github.com/Si4m/2023/0)](https://skyline.github.com/Si4m)
 
 ---
 
