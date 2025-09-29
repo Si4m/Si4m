@@ -66,8 +66,11 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mius952@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <!-- Facebook -->
+  <a href="https://facebook.com/irf4n.SwE" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 
-  
   <!-- Discord -->
   <a href="[https://discord.gg/yourserver](https://discord.gg/VUnHmYA3B)" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
