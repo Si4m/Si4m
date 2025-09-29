@@ -28,19 +28,18 @@
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-irfan-uddin-09361b34b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mius952@gmail.com)
 
 ---
 
 ## 🛠️ Languages and Tools
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -51,13 +50,18 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Si4m/Si4m/blob/output/github-contribution-grid-snake.svg)
+## 📈 Activity Graph
+[![Si4m's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Si4m&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/Si4m/github-readme-activity-graph)
 
 ---
 
-## 📈 Activity Graph
-[![Si4m's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Si4m&theme=react-dark)](https://github.com/Si4m/github-readme-activity-graph)
+## 🌆 GitHub Skyline
+[![GitHub Skyline](https://github.com/Si4m/Si4m/raw/main/assets/skyline.png)](https://skyline.github.com/Si4m)
+
+---
+
+## 📊 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/Si4m?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FDhaka)
 
 ---
 
