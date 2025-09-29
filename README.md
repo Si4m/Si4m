@@ -42,9 +42,10 @@
   </a>
   
   <!-- Email -->
+ <!-- Gmail (direct compose link) -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mius952@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
   
   <!-- Discord -->
