@@ -173,4 +173,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
 </p>
-© 2025 Md Irfan Uddin. All rights reserved.
+© 2026 Md Irfan Uddin. All rights reserved.
